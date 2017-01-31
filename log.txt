@@ -1,0 +1,9 @@
+Found 500 triangles
+Found 500 triangles
+Found 500 triangles
+Found 500 triangles
+Found 499 triangles
+Found 500 triangles
+Found 1000 triangles
+Found 12 triangles
+GL error 0x501 detected in end of init
